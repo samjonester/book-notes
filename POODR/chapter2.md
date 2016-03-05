@@ -1,4 +1,4 @@
-# Definition of Easy to Change
+# Chapter 2 - Definition of Easy to Change
 - Changes have no unexpected side effects.
 - Small changes in requirements require correspondingly small changes in code.
 - Existing code is easy to reuse.
