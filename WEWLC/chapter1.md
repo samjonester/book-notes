@@ -9,7 +9,7 @@
 > We are trying to get to a point which we are used to ease; we expect it and actively attempt to make code change easier.
 > "Before I'd arrived, they'd realized that unit testing was a great thing, but the tests that they were executing were full scenario tests that made multiple trips to a database and exercised large chunks of code. The tests were hard to write, and the team didn't run them very often because they took so long to run."
 
-# Chapter 1
+# Chapter 1 - Changing Software
 
 ## Adding Features and Fixing Bugs
 Both fixing bugs and adding features are changing code. There is, however a big difference between behaviors of change. Are we *Adding*, *Changing*, or *Removing* behavior, or is it a combination of changes.

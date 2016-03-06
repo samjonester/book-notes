@@ -1,4 +1,4 @@
-# Chapter 2
+# Chapter 2 - Working with Feedback
 > Changes in a system can be made in two primary ways. I like to call them Edit and Pray and Cover and Modify.
 > Testing should not be soley done at the application level. The feedback loop is too slow. Small localized tests are invaluable for speeding up the development cycle.
 
