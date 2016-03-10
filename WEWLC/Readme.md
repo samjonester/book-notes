@@ -11,3 +11,4 @@ http://www.informit.com/store/working-effectively-with-legacy-code-9780131177055
 ~~Chapter 5 - Tools  *Dated*~~  
 [Chapter 6 - I Don't Have Much Time and I Have to Change It](chapter6.md)  
 [Chapter 9 - I Can't Get This Class into a Test Harness](chapter9.md)  
+[Chapter 10 - I Can't Run This Method in a Test Harness](chapter10.md)  
